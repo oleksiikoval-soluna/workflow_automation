@@ -108,6 +108,12 @@ This project is a web-based workflow automation tool designed to streamline clie
 <br>
 
 ## Resources
+> Deployment Link
+  ```bash
+    https://workflow-automation-carbonethics.vercel.app/
+  ```
+<br>
+
 > Demo Videos URL
   ```bash
     https://drive.google.com/drive/folders/1wKAo7Hn8MdqlWhaW2RCxi6Ct1-59MS0A?usp=sharing
