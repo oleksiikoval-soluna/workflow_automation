@@ -29,6 +29,7 @@ This project is a web-based workflow automation tool designed to streamline clie
     - [Workflow Automation:](#workflow-automation)
     - [Database:](#database)
     - [Deployment:](#deployment)
+  - [Contact](#contact)
 
 
 ## Technology Used and How It Works
@@ -238,3 +239,7 @@ This project is a web-based workflow automation tool designed to streamline clie
  + The backend is deployed on Render.
 
  + The frontend is deployed on Vercel.
+
+## Contact
+
+If you have any questions or encounter any problems during the installation, please do not hesitate to contact me on WhatsApp: +625175104250 or on Gmail: arvinaufalagustian@gmail.com
