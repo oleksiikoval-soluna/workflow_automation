@@ -248,4 +248,4 @@ This project is a web-based workflow automation tool designed to streamline clie
 
 ## Contact
 
-If you have any questions or encounter any problems during the installation, please do not hesitate to contact me on WhatsApp: +625175104250 or on Gmail: arvinaufalagustian@gmail.com
+If you have any questions or encounter any problems during the installation, please do not hesitate to contact me on WhatsApp: +625175104250 or on Gmail: happysolarion@gmail.com
